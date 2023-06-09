@@ -1,2 +1,2 @@
-# seankim.github.io
+# seenkim.github.io
 Personal
